@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28606.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repro-DataTemplate-Bug.Android", "Repro-DataTemplate-Bug\Repro-DataTemplate-Bug.Android\Repro-DataTemplate-Bug.Android.csproj", "{2D912E58-E76E-4BC3-8E64-262DD7CA3BAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repro-DataTemplate-Bug", "Repro-DataTemplate-Bug\Repro-DataTemplate-Bug\Repro-DataTemplate-Bug.csproj", "{9BDE9F1B-361D-4D4F-900C-1246DA03719F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D912E58-E76E-4BC3-8E64-262DD7CA3BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D912E58-E76E-4BC3-8E64-262DD7CA3BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D912E58-E76E-4BC3-8E64-262DD7CA3BAC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2D912E58-E76E-4BC3-8E64-262DD7CA3BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D912E58-E76E-4BC3-8E64-262DD7CA3BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D912E58-E76E-4BC3-8E64-262DD7CA3BAC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9BDE9F1B-361D-4D4F-900C-1246DA03719F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDE9F1B-361D-4D4F-900C-1246DA03719F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDE9F1B-361D-4D4F-900C-1246DA03719F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9BDE9F1B-361D-4D4F-900C-1246DA03719F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDE9F1B-361D-4D4F-900C-1246DA03719F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BDE9F1B-361D-4D4F-900C-1246DA03719F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76B418CD-7CEA-4297-89E2-C732270B93B4}
+	EndGlobalSection
+EndGlobal
